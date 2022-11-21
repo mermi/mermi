@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **Manel** and I work as a ✨ Data Engineer ✨ I am working mostly toward Data Architect and I want to evolve there. I worked mostly with AWS and a bit GCP.
+I am **Manel** and I work as a Señorita Data Engineer ✨ I am working mostly toward Data Architect and I want to evolve there. I worked mostly with AWS and a bit GCP.
 
 I had couple of experience in building/maintaing/evolve some of data architectures of different sizes, data lakes, large DWH.
 
